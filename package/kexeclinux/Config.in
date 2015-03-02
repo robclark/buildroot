@@ -1,0 +1,5 @@
+config BR2_PACKAGE_KEXECLINUX
+	bool "kexeclinux"
+	help
+	    Silly Embedded (Distro) Hacks
+
